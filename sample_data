@@ -1,0 +1,21 @@
+Employee_ID,First_Name,Last_Name,Email,Phone,Department,Job_Title,Manager,Hire_Date,Salary,Location,Status
+EMP1001,Aarav,Sharma,aarav.sharma1@example.com,+919876543210,IT,Software Engineer,Anil Kumar,2022-03-15,850000,Bangalore,Active
+EMP1002,Priya,Patel,priya.patel2@example.com,+919765432101,HR,HR Executive,Lavanya N,2021-08-20,650000,Chennai,Active
+EMP1003,Rahul,Singh,rahul.singh3@example.com,+918765432109,Data Engineering,Data Engineer,Hariprasad H,2023-01-10,1200000,Hyderabad,Active
+EMP1004,Ananya,Gupta,ananya.gupta4@example.com,+917654321098,Finance,Finance Analyst,Mohan Lal,2020-11-05,900000,Mumbai,Active
+EMP1005,Rohit,Iyer,rohit.iyer5@example.com,+919988776655,Sales,Sales Executive,Arpit Rawal,2022-07-18,700000,Pune,On Leave
+EMP1006,Kavya,Reddy,kavya.reddy6@example.com,+918877665544,Marketing,Senior Analyst,Anil Kumar,2021-05-12,950000,Delhi,Active
+EMP1007,Vivaan,Nair,vivaan.nair7@example.com,+917766554433,Operations,Manager,Lavanya N,2020-09-30,1450000,Bangalore,Active
+EMP1008,Meera,Verma,meera.verma8@example.com,+916655443322,IT,Software Engineer,Hariprasad H,2024-02-14,880000,Hyderabad,Active
+EMP1009,Sai,Joshi,sai.joshi9@example.com,+919955667788,Data Engineering,Data Engineer,Anil Kumar,2023-06-22,1250000,Chennai,Active
+EMP1010,Neha,Kulkarni,neha.kulkarni10@example.com,+918844556677,HR,HR Executive,Mohan Lal,2022-04-08,620000,Pune,Active
+EMP1011,Arjun,Patel,arjun.patel11@example.com,+917733445566,Finance,Finance Analyst,Arpit Rawal,2021-10-21,980000,Mumbai,Active
+EMP1012,Aarav,Singh,aarav.singh12@example.com,+916622334455,Sales,Sales Executive,Lavanya N,2020-06-15,750000,Delhi,On Leave
+EMP1013,Priya,Reddy,priya.reddy13@example.com,+919911223344,Marketing,Manager,Anil Kumar,2023-03-09,1350000,Bangalore,Active
+EMP1014,Rahul,Gupta,rahul.gupta14@example.com,+918800112233,Operations,Senior Analyst,Hariprasad H,2021-12-01,1050000,Chennai,Active
+EMP1015,Ananya,Iyer,ananya.iyer15@example.com,+917799001122,IT,Software Engineer,Mohan Lal,2024-01-25,920000,Hyderabad,Active
+EMP1016,Rohit,Nair,rohit.nair16@example.com,+916688990011,Data Engineering,Data Engineer,Arpit Rawal,2022-09-17,1180000,Pune,Active
+EMP1017,Kavya,Joshi,kavya.joshi17@example.com,+919577889900,HR,Manager,Lavanya N,2020-08-11,1400000,Mumbai,Active
+EMP1018,Vivaan,Verma,vivaan.verma18@example.com,+918466778899,Finance,Finance Analyst,Anil Kumar,2023-05-16,940000,Delhi,Active
+EMP1019,Meera,Sharma,meera.sharma19@example.com,+917355667788,Sales,Sales Executive,Mohan Lal,2021-03-27,720000,Bangalore,Active
+EMP1020,Sai,Kulkarni,sai.kulkarni20@example.com,+916244556677,Marketing,Senior Analyst,Hariprasad H,2022-11-19,990000,Chennai,Active
